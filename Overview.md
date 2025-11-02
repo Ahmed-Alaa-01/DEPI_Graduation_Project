@@ -12,8 +12,12 @@
 ---
 
 ## 📁 Folder Overview
-analysis/excel/        → Pivot tables & screenshots
-analysis/sql/          → Re-runnable queries
-analysis/python/       → Jupyter notebooks
-visualization/tableau → .twbx + PDF + screenshots
+analysis/excel/ : → Pivot tables & screenshots
+
+analysis/sql/ : → Re-runnable queries
+
+analysis/python/ : → Jupyter notebooks
+
+visualization/tableau : → .twbx + PDF + screenshots
+
 ---
